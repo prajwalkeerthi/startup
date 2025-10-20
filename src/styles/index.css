@@ -6,7 +6,7 @@ layer(base);
 @custom-variant dark (&:is(.dark *));
 
 @theme {
-  --breakpoint-*: initial;
+  --breakpoint-: initial;
   --breakpoint-xs: 450px;
   --breakpoint-sm: 575px;
   --breakpoint-md: 768px;

@@ -16,8 +16,8 @@ const nextConfig = {
   },
 
   // 👇 These two ensure paths work correctly on GitHub Pages
-  basePath: '/startup-nextjs-main', // your repo name
-  assetPrefix: '/startup-nextjs-main/',
+  basePath: '/startup-nextjs-main2', // your repo name
+  assetPrefix: '/startup-nextjs-main2/',
 };
 
 export default nextConfig;
